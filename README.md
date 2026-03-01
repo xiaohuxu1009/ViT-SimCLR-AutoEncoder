@@ -6,6 +6,7 @@ Related Code for manuscript "Contrastive Learning-Based Spatial–Spectral Featu
 -> The code for image preprocessing and classifier training/evaluation can be found in the MATLAB Code folder (code written in MATLAB).
 
 -> Schematic of the spatial feature extraction model.
+
 ![image](https://github.com/user-attachments/assets/9a554f87-e603-4f6c-9a19-c6d804fc9a76)
 
 -> The paper link will be made public after the article is officially published.
