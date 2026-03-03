@@ -1,5 +1,7 @@
 clc; clear; close all;
 
+rng(45,'twister');
+
 %% Setup the paths
 main_folder = 'FOLDER NAME'; % Put folder name here
 
@@ -390,3 +392,4 @@ function s = bootstrap_stats(v, ~)
         mean(v), std(v, 1), MAD);
 
 end
+
