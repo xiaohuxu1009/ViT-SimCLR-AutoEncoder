@@ -9,4 +9,4 @@ Related Code for manuscript "Contrastive Learning-Based Spatial–Spectral Featu
 
 ![image](https://github.com/user-attachments/assets/9a554f87-e603-4f6c-9a19-c6d804fc9a76)
 
--> The paper link will be made public after the article is officially published.
+-> paper link: https://iopscience.iop.org/article/10.1088/2515-7647/ae58df/meta
